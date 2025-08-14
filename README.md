@@ -80,9 +80,12 @@
 ---
 
 ### 🐍 Snake Eating My Contributions  
-<p align="center">
-  <img src="https://github.com/Rakesh20052022/Rakesh20052022/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+<!-- 🐍 Snake: dark/light aware -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake.svg" />
+</picture>
 
 ---
 
