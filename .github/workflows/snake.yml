@@ -1,0 +1,28 @@
+name: Generate Snake (SVG only)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 00:00 UTC daily (05:30 IST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Rakesh20052022
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
