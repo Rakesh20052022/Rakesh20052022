@@ -111,4 +111,4 @@
 ---
 
 <!-- Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120& section=footer"/>
