@@ -72,13 +72,6 @@
 
 ---
 
-### 🎵 Now Playing on Spotify  
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-</p>
-
----
-
 ### 🐍 Snake Eating My Contributions  
 <!-- 🐍 Snake: dark/light aware -->
 <picture>
