@@ -60,21 +60,30 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh20052022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh20052022&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rakesh20052022&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh20052022&theme=dracula&hide_border=true&v=1" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh20052022&layout=compact&theme=dracula&hide_border=true&v=1" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-profile-trophy.vercel.app/?username=Rakesh20052022&theme=dracula&no-bg=true&no-frame=true&margin-w=15&v=1" alt="Trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh20052022&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh20052022&theme=tokyonight&row=1&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" height="195" alt="Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh20052022&bg_color=1a1b27&color=70a5fd&line=3b82f6&point=ffffff&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh20052022&bg_color=282a36&color=ff79c6&line=bd93f9&point=50fa7b&hide_border=true&v=1" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
