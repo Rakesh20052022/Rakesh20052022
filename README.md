@@ -1,84 +1,113 @@
-<!-- ✨ Futuristic GitHub Profile README ✨ -->
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Rakesh20052022">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&height=70&lines=Hi+👋,+I'm+Rakesh+Samanta;Full+Stack+Developer;Tech+Enthusiast;Open+Source+Lover;Lifelong+Learner;Welcome+to+my+Interactive+Profile!" alt="Typing Animation">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rakesh+Samanta!+👋;I'm+a+MERN+Stack+Developer;BCA+Student+%40+MAKAUT;Building+impactful+web+applications" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<!-- Top Wave -->
-<!-- Neon Animated Boy with Laptop -->
-<p align="center">
-  <img src="https://i.ibb.co/9YF0cQ4/neon-boy-laptop.gif" alt="Boy Working on Laptop" width="600"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rakesh20052022&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</div>
 
----
+<br/>
 
-### 💫 About Me  
-🔹 Full Stack Developer | Tech Enthusiast | Problem Solver  
-🔹 Passionate about building efficient, scalable, and user-friendly web apps  
-🔹 Always exploring new technologies & contributing to open source  
-🔹 Open for collaborations & innovative projects  
+## 👨🏻‍💻 About Me
 
----
-
-### 🚀 Tech Stack  
-*Frontend*  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript" height="50" />
-</p>
-
-*Backend*  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,php" height="50" />
-</p>
-
-*Database*  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="50" />
-</p>
+- 🎓 I'm currently pursuing a **Bachelor of Computer Applications (BCA) Honors** at **MAKAUT University**.
+- 💻 I am a **Full-Stack Developer** passionate about the **MERN** stack and building scalable, user-centric web applications.
+- 🌐 Currently developing **GramLink** (a digital marketplace & learning platform for rural communities).
+- 💼 I am actively undertaking an academic internship to further hone my software engineering skills.
+- 💡 I enjoy integrating AI generation tools into my development workflow and exploring modern web architectures.
 
 ---
 
-### 🏆 Achievements & Stats  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh20052022&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
+## 🛠️ Skills & Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh20052022&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh20052022&theme=tokyonight" height="160px"/>
-</p>
+**🌐 Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**⚙️ Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**💻 Languages & Core Concepts**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**🔧 Tools & Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-### 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh20052022&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[GramLink](YOUR_PROJECT_LINK)** | A digital marketplace and learning platform aimed at empowering rural communities, featuring dynamic UI components and AI integrations. | React, Node.js, Express, MongoDB |
+| **[Julears](YOUR_PROJECT_LINK)** | An elegant e-commerce platform dedicated to jewelry and beauty products, complete with a structured custom payment module. | MERN, Tailwind CSS |
+| **[Developer Portfolio](YOUR_PROJECT_LINK)** | A fully responsive, modern personal portfolio website showcasing my skills, internship experience, and featured repositories. | React, Tailwind CSS |
 
 ---
 
-### 📌 Latest Projects  
-<p align="center">
-  <a href="https://github.com/Rakesh20052022/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh20052022&repo=project-1&theme=tokyonight"/>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakesh20052022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakesh20052022&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh20052022&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh20052022&theme=tokyonight&row=1&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" height="195" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh20052022&bg_color=1a1b27&color=70a5fd&line=3b82f6&point=ffffff&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🌱 Current Learning & 🎯 Goals for 2026
+
+- 📚 Deepening my understanding of **Advanced Java**, **UNIX & Shell Programming**, and **MVC Architectures**.
+- 🤖 Exploring the implementation of Generative AI tools and robust backend APIs.
+- 🚀 **Goals for 2026:**
+  - Successfully launch **GramLink** and **Julears** to the public.
+  - Complete my BCA internship with impactful contributions to the team.
+  - Expand my open-source footprint and tackle advanced data structures.
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rakeshsamanta2005/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Rakesh20052022/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rakesh20052022&repo=project-2&theme=tokyonight"/>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+  <a href="mailto:rakeshsamanta9679@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
----
+<br/>
 
-### 🐍 Snake Eating My Contributions  
-<!-- 🐍 Snake: dark/light aware -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rakesh20052022/Rakesh20052022/output/github-snake.svg" />
-</picture>
+## ⚡ Fun Fact
+When I'm not writing code, managing BitLocker encryption, or debugging MongoDB connections, you can usually find me cultivating and grafting different varieties of roses (especially Black Baccara)
 
 ---
 
@@ -86,25 +115,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
 </p>
-
----
-
-### 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.facebook.com/rakesh.samanta.546639"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/rakeshs_2005/#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rakeshsamanta2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rakeshsamanta9679@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 👀 Visitor Counter  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rakesh20052022&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-<!-- Bottom Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00ccff&height=120&section=footer"/>
