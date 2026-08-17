@@ -115,9 +115,6 @@
 
 <br/>
 
-## ⚡ Fun Fact
-When I'm not writing code, managing BitLocker encryption, or debugging MongoDB connections, you can usually find me cultivating and grafting different varieties of roses....
-
 ---
 
 ### 💬 Dynamic Dev Quote  
