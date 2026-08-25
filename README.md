@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rakesh+Samanta+%F0%9F%91%8B;Full-Stack+MERN+Developer;BCA+Student+%7C+MAKAUT;Building+Modern+Web+Applications" alt="Typing SVG" />
 </a><br/><a href="https://github.com/Rakesh20052022">
   <img src="https://komarev.com/ghpvc/?username=Rakesh20052022&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</a></div>---
+</a></div>
 
 👨‍💻 About Me
 
@@ -14,7 +14,7 @@
 - 🌱 Currently improving my Node.js, system design and DSA skills
 - 💼 Open to internships and entry-level software development opportunities
 
----
+
 
 🛠️ Tech Stack
 
@@ -49,7 +49,7 @@ Frontend
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff"/>
 <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=fff"/>
-</p>---
+</p>
 
 🚀 Featured Projects
 
@@ -69,29 +69,7 @@ Key Features
 
 Tech Stack: React · Node.js · Express · MongoDB · Tailwind CSS
 
-🔗 "View Repository" (YOUR_GRAMLINK_REPO_LINK)
 
----
-
-💎 Julears
-
-A full-stack e-commerce platform focused on jewellery and beauty products.
-
-Key Features
-
-- 🛍️ Product browsing and filtering
-- 🛒 Shopping cart
-- 📦 Order management
-- 🔐 Authentication
-- 👨‍💼 Admin dashboard
-- 📊 Inventory management
-- 🔌 RESTful APIs
-
-Tech Stack: React · Node.js · Express · MongoDB · Tailwind CSS
-
-🔗 "View Repository" (YOUR_JULEARS_REPO_LINK)
-
----
 
 💻 Developer Portfolio
 
@@ -101,7 +79,7 @@ Tech Stack: React · Tailwind CSS · JavaScript
 
 🔗 "Live Website" (https://portfolio-website-rakesh-5339.vercel.app/)
 
----
+
 
 🔐 Backend & Security
 
@@ -120,7 +98,7 @@ Some areas I'm actively working with:
 - REST API design
 - MongoDB indexing & optimization
 
----
+
 
 🌱 Currently Learning
 
@@ -138,12 +116,11 @@ Data Structures & Algorithms
 
 I'm also exploring how AI-assisted development can improve software development workflows without compromising code quality or security.
 
----
+
 
 🎯 2026 Goals
 
 - 🚀 Launch GramLink
-- 💎 Launch Julears
 - 💼 Complete my software development internship
 - 🧠 Strengthen Data Structures & Algorithms
 - 🌐 Build more production-ready applications
@@ -151,7 +128,7 @@ I'm also exploring how AI-assisted development can improve software development 
 - 🏗️ Improve system design and backend architecture
 - 💻 Prepare for full-time software development opportunities
 
----
+
 
 📊 GitHub Statistics
 
@@ -171,7 +148,7 @@ I'm also exploring how AI-assisted development can improve software development 
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a><a href="https://github.com/Rakesh20052022">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></div>---
+</a></div>
 
 <div align="center">💡 Build • Learn • Improve • Repeat
 
