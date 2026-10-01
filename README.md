@@ -17,7 +17,7 @@
 <br/><br/>
 </div>
 
-<div>
+<div align="center">
 
 <img src="/divider.svg" width="70%" alt="Divider"/>
 
@@ -235,7 +235,7 @@ A responsive portfolio showcasing my projects, skills and development journey.
 <a href="mailto:rakeshsamanta9679@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Rakesh20052022"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
+
 
 <img src="/footer.svg" width="100%" alt="Build, Learn, Improve, Repeat"/>
 
